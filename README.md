@@ -26,4 +26,5 @@ Et voilà, votre **Death Screen** est prêt à l’emploi ! 🚀
 
 ## 🔧 Exemple de configuration
 
-<img width="1167" height="372" alt="config" src="https://github.com/user-attachments/assets/0079762e-e5ca-4c44-96d3-5f4d24f21a2b" />
+<img width="942" height="310" alt="Capture" src="https://github.com/user-attachments/assets/94187ca3-d14d-474f-8751-cc6287b3493e" />
+
